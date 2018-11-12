@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  DemoOpenCV.cpp
+DemoOpenCV.obj : error LNK2019: símbolo externo indefinido "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) referenciado na função "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ)
+C:\Users\euzeb\Documents\AppProjects\DemoOpenCV\Debug\DemoOpenCV.exe : fatal error LNK1120: 1 externo não resolvidos
